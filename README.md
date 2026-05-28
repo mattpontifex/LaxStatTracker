@@ -7,7 +7,7 @@ The app allows coaches, analysts, managers, and team staff to record in-game eve
 ## Features
 
 - Live game event tracking
-- Player statistics
+- Field statistics
 - Goalie statistics
 - Team analytics
 - Period-by-period scoring analysis
