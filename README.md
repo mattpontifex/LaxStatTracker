@@ -20,6 +20,8 @@ The app allows coaches, analysts, managers, and team staff to record in-game eve
 
 If you need assistance with LaxStatTracker, please open an issue in this repository or contact the developer through the App Store support link.
 
+- [Support](SUPPORT.md)
+
 ## Privacy Policy
 
 The privacy policy can be found here:
