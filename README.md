@@ -1,6 +1,6 @@
 # LaxStatTracker
 
-<table width="100%" border=0>
+<table width="100%" border="0">
   <tr>
     <td width="70%" valign="top">
       <h3 align="center" style="padding-left: 2em; padding-right: 2em;">Not every team has a full analytics staff. LaxStatTracker gives programs an affordable, distraction-free way to capture meaningful lacrosse statistics during live games on an iPhone or iPad.</h3>
