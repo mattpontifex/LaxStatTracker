@@ -1,20 +1,73 @@
 # LaxStatTracker
 
-LaxStatTracker is an iPhone and iPad application designed for live lacrosse game statistics tracking, analysis, and reporting.
+Not every team has a full analytics staff. LaxStatTracker gives programs an affordable, distraction-free way to capture meaningful lacrosse statistics during live games on an iPhone or iPad.
 
-The app allows coaches, analysts, managers, and team staff to record in-game events and generate detailed statistics without requiring an internet connection.
+LaxStatTracker is a fast, team-focused lacrosse stat tracking app built for coaches, parents, and staff who need reliable in-game statistics without the complexity of expensive stat platforms.
 
-## Features
+Designed specifically for live game use, the app lets you quickly record game events while keeping your attention on the field — not buried in menus or distracted by pop-ups.
 
-- Live game event tracking
-- Field statistics
-- Goalie statistics
-- Team analytics
-- Period-by-period scoring analysis
-- Game reports and summaries
-- Multi-game analytics
-- Offline operation
-- Data export and sharing tools
+## LIVE GAME STAT TRACKING FOR BOTH MEN'S AND WOMEN'S LACROSSE
+
+Track detailed lacrosse statistics for both field players and goalies, including:
+
+• Goals and assists  
+• Shots, shot locations, and shot outcomes  
+• Ground balls and turnovers  
+• Draw controls / faceoffs  
+• Caused turnovers and defensive stats  
+• Fouls, penalties, and cards  
+• Goalie saves, goals against, and shot tracking  
+• Period-by-period scoring and game flow
+
+Built-in haptics, streamlined workflows, and touch-optimized controls make stat entry fast during live action.
+
+## ADVANCED SHOT TRACKING
+
+Track where shots originate on the field and where they are placed within the goal.
+
+Advanced field and goal shot charts help teams analyze:
+- Shooting tendencies
+- Scoring efficiency
+- Offensive and Defensive hot zones
+- Opponent scouting insights
+
+## TEAM ANALYTICS & REPORTING
+
+LaxStatTracker includes tools for both live game management and postgame analysis:
+
+• Multi-game player analytics  
+• Team scoring trend analysis  
+• Pregame scouting reports  
+• Players to watch assessments  
+• Game flow and momentum tracking  
+• Per-period performance comparisons
+
+## EXPORT & DATA OWNERSHIP
+
+Export your data when you want it:
+
+• CSV exports for league and conference reporting  
+• JSON exports for advanced analytics workflows  
+• Portable game files for long-term archival and analysis
+
+Your data remains fully under your control.
+
+## WORKS OFFLINE
+
+No cloud dependency. No account required.
+
+• No subscriptions  
+• No advertisements  
+• No account creation  
+• No forced syncing  
+• No internet connection required
+
+All data is stored locally on your device unless you explicitly choose to export it.
+
+## BUILT FOR REAL TEAMS
+
+Whether you are tracking stats from the sideline during a live game, managing team analytics after the final whistle, or preparing scouting reports for your next opponent, LaxStatTracker delivers a fast, flexible, and distraction-free experience designed specifically for lacrosse.
+
 
 ## Support
 
