@@ -4,13 +4,12 @@
   <tr>
     <td width="50%" valign="top">
       <h3>Not every team has a full analytics staff. LaxStatTracker gives programs an affordable, distraction-free way to capture meaningful lacrosse statistics during live games on an iPhone or iPad.</h3>
-      LaxStatTracker is a fast, team-focused lacrosse stat tracking app built for coaches, parents, and staff who need reliable in-game statistics without the complexity of expensive stat platforms.
-
-Designed specifically for live game use, the app lets you quickly record game events while keeping your attention on the field — not buried in menus or distracted by pop-ups.
+      <p>LaxStatTracker is a fast, team-focused lacrosse stat tracking app built for coaches, parents, and staff who need reliable in-game statistics without the complexity of expensive stat platforms.</p>
+<p>Designed specifically for live game use, the app lets you quickly record game events while keeping your attention on the field — not buried in menus or distracted by pop-ups.</p>
     </td>
     <td width="50%" valign="top">
       <h3></h3>
-      <p align="center"><img src="/_screencaps/Ipad13Screenshots1.jpg" width="400" alt="screencapture"></p>
+      <p align="center"><img src="/_screencaps/Ipad13Screenshots1.jpg" width="200" alt="screencapture"></p>
     </td>
   </tr>
 </table>
